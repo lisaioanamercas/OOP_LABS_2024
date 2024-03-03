@@ -8,6 +8,11 @@ using namespace std;
 char str[201];
 int sum, x;
 
+
+
+
+
+
 int main()
 {
     errno_t error_code;
